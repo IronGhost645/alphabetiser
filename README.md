@@ -11,23 +11,21 @@ Alphabetiser is a program written to do the following:
 
 REQUIREMENTS
 ------------
-This program runs on Perl.
-Basically, you can either run this by
-  - Downloading the raw source code and executing it with perl
-  - Downloading the binaries for linux and windows
+This program is written in Perl.
+To run it, download the alphabetiser.pl file, navigate to the correct directory, and execute with
+  - perl alphabetiser.pl
 
 FUN RESOURCES
 -------------
 For the cool ASCII text:
-http://patorjk.com/software/taag/
+  - http://patorjk.com/software/taag/
 
 For interesting Perl questions:
-perlmonks.org				
-perlmeme.org				
-stackoverflow.com			
+  - perlmonks.org			
+  - perlmeme.org				
+  - stackoverflow.com			
 
 For learning Perl in three hours:
-qntm.org				
-perl-tutorial.org			
-learn.perl.org			        
-
+  - qntm.org				
+  - perl-tutorial.org	
+  - learn.perl.org		
